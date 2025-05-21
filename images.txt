@@ -7,6 +7,9 @@
 #ubuntu:20.04
 #ubuntu:22.04
 #ubuntu:24.04
-osrf/ros:humble-desktop-full-jammy
-osrf/ros:humble-desktop-full
+#osrf/ros:humble-desktop-full-jammy
+#osrf/ros:humble-desktop-full
+apolloauto/apollo:dev-x86_64-18.04-20230831_1143
+apolloauto/apollo:data_volume-audio_model-x86_64-latest
+
 --platform=linux/amd64 
