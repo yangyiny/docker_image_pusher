@@ -2,15 +2,19 @@
 #dustynv/ros:iron-desktop-l4t-r35.4.1
 #dustynv/ros:noetic-desktop-l4t-r35.4.1
 dustynv/ros:noetic-ros-base-l4t-r35.1.0
-#osrf/ros:melodic-desktop-full-bionic
+
 #nvidia/cuda:11.1.1-cudnn8-devel-ubuntu20.04
 #nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
+
 #ubuntu:18.04
 #ubuntu:20.04
 #ubuntu:22.04
 #ubuntu:24.04
+
 #osrf/ros:humble-desktop-full-jammy
 #osrf/ros:humble-desktop-full
+#osrf/ros:melodic-desktop-full-bionic
+
 #apolloauto/apollo:dev-x86_64-18.04-20230831_1143
 #apolloauto/apollo:data_volume-audio_model-x86_64-latest
 
