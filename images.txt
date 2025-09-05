@@ -14,4 +14,4 @@ dustynv/ros:noetic-ros-base-l4t-r35.1.0
 #apolloauto/apollo:dev-x86_64-18.04-20230831_1143
 #apolloauto/apollo:data_volume-audio_model-x86_64-latest
 
---platform=linux/amd64 
+--platform=linux/arm64 
