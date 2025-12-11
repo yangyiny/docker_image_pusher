@@ -22,5 +22,5 @@ ros:noetic-ros-base-focal
 #apolloauto/apollo:data_volume-audio_model-x86_64-latest
 
 #--platform=linux/amd64
-#--platform=linux/arm64
+--platform=linux/arm64
 
