@@ -16,7 +16,7 @@
 #osrf/ros:humble-desktop-full
 #osrf/ros:melodic-desktop-full-bionic
 #osrf/ros:noetic-desktop-full
-ros/noetic-ros-base-focal
+arm64v8_rosbase/ros:noetic-ros-base-focal
 
 #apolloauto/apollo:dev-x86_64-18.04-20230831_1143
 #apolloauto/apollo:data_volume-audio_model-x86_64-latest
